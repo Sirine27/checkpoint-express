@@ -1,0 +1,73 @@
+.logo-name {
+    display: flex;
+    align-items: baseline;
+}
+.logo {
+width: 50px;
+height: 50px;
+top: 14px;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100;
+  
+}
+header{
+    margin: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+main{
+    
+    margin: 0 30px;
+    height: 700px;
+}
+.NavBar {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    padding: 20 0;
+    color: rgb(226, 24, 165);
+    font-size: large;
+    margin-top: 20px;
+    margin: 20px;
+    margin-bottom: 0;
+    overflow: hidden;
+}
+li{
+    padding-left: 50px;
+}
+.Home{
+    text-decoration: underline;
+}
+.Products{
+    text-decoration: underline;
+}
+.Contact{
+    text-decoration: underline;
+}
+.Link{
+    color: rgb(226, 24, 165);
+    text-decoration: none;
+}
+.home-img{
+    height: 1000px;
+    width: 100%;
+}
+.contact-img{
+   
+    
+    height: 300px;
+    width: 1000px;  
+}
+h5{
+    margin: 0;
+    position: relative;
+    bottom: 700px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(226, 24, 165);
+    font-weight: bold;
+}
